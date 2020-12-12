@@ -1,2 +1,2 @@
 # learningJS
-Practicing at https://learn.javascript.ru/
+Practice at https://learn.javascript.ru/
