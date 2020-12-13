@@ -40,6 +40,7 @@
 
 // let l = '  -9  ' + 5;
 // console.log(l);
+// console.log(typeof l);
 
 // let m = '  -9  ' - 5;
 // console.log(m);
